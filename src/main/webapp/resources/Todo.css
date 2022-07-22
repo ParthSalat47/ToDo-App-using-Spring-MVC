@@ -1,0 +1,83 @@
+@charset "ISO-8859-1";
+
+body {
+  background-color: #00d9ce;  /* cyan? */
+}
+
+/* ffffcc */
+
+h2 {
+  color: blue; 
+  text-align: center;
+}
+
+.centerClass{
+	text-align: center;
+}
+
+.inputField{
+	position: absolute;
+	left:43%;
+}
+
+.homepageButtons {
+	color: green;
+	position: absolute;
+	/*top:50%;*/
+	left:45%;
+	line-height: 200%;
+	width: 150px;
+}
+
+.error {
+	color: red;
+	text-align: center;
+	font-weight: bold;
+	
+}
+
+.success {
+	color: green; 
+}
+
+/* .navbar.navbar-expand-lg.navbar-light.bg-dark container-fluid */ 
+/* .navbar-brand {
+	color: white;
+} */
+
+.content{
+	padding-left: 20px;
+}
+
+#accBalance{
+	text-align: center;
+}
+
+#accountHistory{
+	text-align: center;
+}
+
+#greeting{
+	text-align: right;
+}
+
+#homePage{
+	color: white;
+} 
+
+/* #depositButton{
+	position: absolute;
+	left:45%;
+} */
+
+#tagFilter{
+	width: 250px;
+	position: absolute;
+	left:41%;
+}
+
+/* Rounded border */
+hr.rounded {
+  border-top: 8px solid #000000;
+  border-radius: 5px;
+}
