@@ -10,7 +10,7 @@
 3. The user can search for all tasks with a particular tag. *(Cool, isn’t it?)*
 4. Strict validation checks are in place, keeping in mind all possible edge cases. Robust exceptional handling has been done wherever user input is involved.
     1. For example, preventing the creation of duplicate tasks.
-5. The code is clean, concise and maintainable. The UI is user-friendly. ([I’m not lying](https://lh3.googleusercontent.com/EktpXNvS1-gipqz0Y21L3DDubn9ufFJMMHAsjnDPaxj5my8HKqAs0Nd4NTR-fdvENq_sIJcVbhnjJqmlQAWxsE0fURvsBuIPRMH1bNpc1Rk3n9_v3YmFoNmoieplCgyBwCyHfb1CNC_v5yMZUW7ol51xt9VPyktrxh7qMsYZfjCDAIkjAI9bSTVezR69hspikH41IkPCJCnbN-bORNxhXgCjeJ43A_z-na0k4JrlNMDZA_3EmqUPEsa_SH8Gm6O1vOp7QxfjUbUev11ks08Q9aD73zE52AFOT8SCGFhLsBWgud2zChBPtd78cJbcv7RZHkeCDXQCLo8xmmZL1-gusss6bX9NtzKfz3MNPMQHNKIYIqF5E6ol1-GZ2pF1kT4UsxZtojCbUA06xxrYZeBZMnlMdNbKaLsBVuMZEyzvUOG3uY_SnoaeYUMOvfZm1FdzTvfFxawGSzqTU7RK4e6rOH_fbpZDsV4zqHa_xBiDLmLL-wn2FfEiw1L5cblipInscXl6noDdMxHynvbKVIOrnVX_MBNL7Qpc2q1HblkkLbm4mTEftRjuncF9M4sJXoGOYZqivn_viM7wcBiTH1I394cLO2ogzIEJdA5weQ-JZPylijNlAj6EMdQOkQ8sfV73MSyTuJcflQ1RzDWyXtThB3ciL5z3NscWassJBSXvlRvpCxkN8SMnsNOUVrqe-i0UoRxdwOeWiz9jfwQQAj8jNiLo8iKMEv-HSYZSnjqB_jtLWo7nDpSkGM-_tNScEm9C9YTW_SXLA4CGrca3YPdUYOA7lNKQlG9jjz7hnFrR0_P5r8dwitrnhh5T3nJM0akdczyz7jm7vy9XSBZlw6hzuzd2V7KeKtkETU84oR9UdcozuhI2IhCzPK63nzJGNUcESOztL0C8aMp4Im9d-XJBwJQJVjuwBskrPRjxee0a0RdSFgXDZFP4YCkpcB2dfw02jFc85_8EjJ85BEJvoTw=w391-h220-no?authuser=8) 🤥)
+5. The code is clean, concise and maintainable. The UI is user-friendly. ([I’m not lying](https://photos.app.goo.gl/9AbEXxEibLLaYtGr9) 🤥)
 
 ## Note for recruiters
 
