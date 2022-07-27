@@ -10,7 +10,8 @@
 3. The user can search for all tasks with a particular tag. *(Cool, isn’t it?)*
 4. Strict validation checks are in place, keeping in mind all possible edge cases. Robust exceptional handling has been done wherever user input is involved.
     1. For example, preventing the creation of duplicate tasks.
-5. The code is clean, concise and maintainable. The UI is user-friendly. ([I’m not lying](https://photos.app.goo.gl/9AbEXxEibLLaYtGr9) 🤥)
+5. MySQL database was used.
+6. The code is clean, concise and maintainable. The UI is user-friendly. ([I’m not lying](https://photos.app.goo.gl/9AbEXxEibLLaYtGr9) 🤥)
 
 ## Note for recruiters
 
